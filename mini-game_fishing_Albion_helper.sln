@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mini-game_fishing_Albion_helper", "mini-game_fishing_Albion_helper.csproj", "{7BCD15FD-6165-4042-9230-9CFBD9E235E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BCD15FD-6165-4042-9230-9CFBD9E235E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BCD15FD-6165-4042-9230-9CFBD9E235E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BCD15FD-6165-4042-9230-9CFBD9E235E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BCD15FD-6165-4042-9230-9CFBD9E235E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF1C1B9B-C110-4120-8938-8EC4C6033F2C}
+	EndGlobalSection
+EndGlobal
